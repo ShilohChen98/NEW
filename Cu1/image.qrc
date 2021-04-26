@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/cove.png</file>
+        <file>image/武科大炼铁研究所-2.png</file>
+        <file>image/BF.gif</file>
+    </qresource>
+</RCC>
