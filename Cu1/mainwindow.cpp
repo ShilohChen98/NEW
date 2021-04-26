@@ -77,13 +77,10 @@ ui->label->setScaledContents(true);
 
 ui->lineEdit->setEchoMode(QLineEdit::Password);
 
-
-
-
-
 }
 
 
+//afternoon\
 
 MainWindow::~MainWindow()
 {
